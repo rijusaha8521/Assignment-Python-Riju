@@ -1,4 +1,5 @@
-# Assignment-Python
+# Python Assignment : Student Attendance Tracker
+           
             # Python Assignment-1
            #  Name: Riju kumar saha
                  #   MCA(AI & ML)  
