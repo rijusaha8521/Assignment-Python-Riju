@@ -1,4 +1,4 @@
-# Assignment-Python-Riju
+# Assignment-Python
             # Python Assignment-1
            #  Name: Riju kumar saha
                  #   MCA(AI & ML)  
